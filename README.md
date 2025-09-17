@@ -13,35 +13,36 @@ This dataset captures presenter behavior in a presentation interface that allows
 
 We release data from 16 consented participants (out of 20), each of whom presented slides using a web-based tool that allowed repositioning, resizing, and toggling visibility of their webcam video.
 
-### Per Participant Folder Structure (Recommended)
+### Folder Structure
 
 ```
 ITalk-57/
-├── participant_01/
-│   ├── personal/
+├── personal/
+│   ├── personal_1/
 │   │   ├── slides.pdf
 │   │   ├── script.txt
-│   │   ├── presentation.mp4
-│   │   ├── webcam_only.mp4
-│   │   └── interaction_log.json
-│   ├── tutorial/
-│   │   └── ...
-│   └── professional/
-│       └── ...
-├── participant_02/
+│   │   ├── p01_presentation.mp4
+│   │   ├── p01_webcam_only.mp4
+│   │   └── p01_interaction_log.json
+│   ├── personal_2/
 │   └── ...
-├── README.md
-├── LICENSE
-└── CITATION.cff
+├── tutorial/
+│   ├── tutorial_1/
+│   └── ...
+├── professional/
+│   ├── professional_1/
+│   └── ...
 ```
 
-Each subfolder (e.g., `personal/`, `tutorial/`, `professional/`) represents a **presentation category** from the study. Every folder contains:
+Each top-level folder (`personal`, `tutorial`, `professional`) contains all participant recordings for that genre.
 
-- `slides.pdf`: The full slide deck shown during the presentation (7 slides)
-- `script.txt`: The full text script accompanying the slides (aligned to slides by segment)
-- `presentation.mp4`: A full video showing slides + webcam composited in real-time
-- `webcam_only.mp4`: The presenter’s segmented webcam feed with transparent background
-- `interaction_log.json`: Time-stamped log of presenter webcam manipulations
+Each subfolder (e.g., `personal_1`) corresponds to a single presentation instance and contains:
+
+- `slides.pdf`: Slide deck (7 slides)
+- `script.txt`: Corresponding presentation script
+- `*_presentation.mp4`: Composite video (slide + webcam)
+- `*_webcam_only.mp4`: Webcam-only segmented feed
+- `*_interaction_log.json`: Timestamped webcam manipulation log
 
 ---
 
