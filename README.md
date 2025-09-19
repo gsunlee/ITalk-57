@@ -46,6 +46,17 @@ Each subfolder (e.g., `personal_1`) corresponds to a single presentation instanc
 
 ---
 
+## ⚠️ Missing or Partial Data
+
+Please note the following exceptions:
+
+- **Participants p05, p06, p09**: Only provided consent to release *non-identifiable data*. Therefore, only the `interaction_log.json` files are available for these presentations. No presentation video, or webcam feed is included.
+- **Participant p19**: Webcam data was lost due to file corruption. Only the `interaction_log.json` are available.
+
+These cases are still valuable for layout behavior and interaction pattern analysis, as the JSON logs fully capture timestamped positioning and mode-switching events.
+
+---
+
 ## 📄 JSON Log Format: `interaction_log.json`
 
 Each JSON file contains metadata and time-series logs of presenter video manipulation events throughout the talk.
