@@ -1,0 +1,134 @@
+{
+  "participantId": "2",
+  "category": "my-work",
+  "subCategory": "product",
+  "containerSizes": {
+    "presentationContainer": {
+      "width": 1536,
+      "height": 643
+    },
+    "mainContent": {
+      "width": 1236,
+      "height": 583
+    },
+    "slideContainer": {
+      "width": 1236,
+      "height": 583
+    }
+  },
+  "logs": [
+    {
+      "timestamp": 0.005,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "212.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 57.292,
+      "slideNumber": 2,
+      "webcamPosition": {
+        "top": "283.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "444.138px"
+      },
+      "webcamSize": {
+        "width": 528,
+        "height": 297
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 87.569,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "283.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "444.138px"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 123.455,
+      "slideNumber": 4,
+      "webcamPosition": {
+        "top": "283.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "86.1375px"
+      },
+      "webcamSize": {
+        "width": 528,
+        "height": 297
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 170.46,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "283.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "86.1375px"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 209.037,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "179.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "517.778px"
+      },
+      "webcamSize": {
+        "width": 718,
+        "height": 404
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 252.871,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "50%",
+        "right": "auto",
+        "bottom": "",
+        "left": "50%"
+      },
+      "webcamSize": {
+        "width": 932,
+        "height": 524
+      },
+      "isFullScreen": true,
+      "isHidden": false
+    }
+  ],
+  "loggingFrequency": 500
+}
