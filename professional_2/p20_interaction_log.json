@@ -1,0 +1,118 @@
+{
+  "participantId": "20",
+  "category": "my-work",
+  "subCategory": "research",
+  "containerSizes": {
+    "presentationContainer": {
+      "width": 1646,
+      "height": 739
+    },
+    "mainContent": {
+      "width": 1346,
+      "height": 679
+    },
+    "slideContainer": {
+      "width": 1346,
+      "height": 679
+    }
+  },
+  "logs": [
+    {
+      "timestamp": 0.001,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "306.429px",
+        "right": "20px",
+        "bottom": "",
+        "left": "359.857px"
+      },
+      "webcamSize": {
+        "width": 750,
+        "height": 422
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 77.094,
+      "slideNumber": 2,
+      "webcamPosition": {
+        "top": "415.857px",
+        "right": "20px",
+        "bottom": "",
+        "left": "635.271px"
+      },
+      "webcamSize": {
+        "width": 467,
+        "height": 263
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 131.291,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "261.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "577.271px"
+      },
+      "webcamSize": {
+        "width": 730,
+        "height": 411
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 188.869,
+      "slideNumber": 4,
+      "webcamPosition": {
+        "top": "264.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "170.271px"
+      },
+      "webcamSize": {
+        "width": 730,
+        "height": 411
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 261.219,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "344.514px",
+        "right": "20px",
+        "bottom": "",
+        "left": "759.505px"
+      },
+      "webcamSize": {
+        "width": 586,
+        "height": 330
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 309.26,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "345.2px",
+        "right": "20px",
+        "bottom": "",
+        "left": "756.171px"
+      },
+      "webcamSize": {
+        "width": 586,
+        "height": 330
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    }
+  ],
+  "loggingFrequency": 500
+}

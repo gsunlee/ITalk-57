@@ -1,0 +1,70 @@
+{
+  "participantId": "15",
+  "category": "my-work",
+  "subCategory": "research",
+  "logs": [
+    {
+      "timestamp": 0.001,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "310px",
+        "right": "20px",
+        "bottom": "",
+        "left": "575px"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 37.949,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "310px",
+        "right": "20px",
+        "bottom": "",
+        "left": "575px"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 115.861,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "428px",
+        "right": "20px",
+        "bottom": "",
+        "left": "563.32px"
+      },
+      "webcamSize": {
+        "width": 321,
+        "height": 181
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    }
+  ],
+  "containerSizes": {
+    "presentationContainer": {
+      "width": 1510,
+      "height": 781
+    },
+    "mainContent": {
+      "width": 1210,
+      "height": 721
+    },
+    "slideContainer": {
+      "width": 1210,
+      "height": 721
+    }
+  },
+  "loggingFrequency": 500
+}
