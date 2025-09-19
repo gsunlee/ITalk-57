@@ -1,0 +1,742 @@
+{
+  "participantId": "19",
+  "category": "lecture",
+  "subCategory": "how-to-install",
+  "containerSizes": {
+    "presentationContainer": {
+      "width": 1536,
+      "height": 590
+    },
+    "mainContent": {
+      "width": 1236,
+      "height": 530
+    },
+    "slideContainer": {
+      "width": 1236,
+      "height": 530
+    }
+  },
+  "logs": [
+    {
+      "timestamp": 0.001,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "422px",
+        "right": "20px",
+        "bottom": "",
+        "left": "123.8px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 5.709,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "310px",
+        "right": "20px",
+        "bottom": "",
+        "left": "155.787px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 6.548,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "382px",
+        "right": "20px",
+        "bottom": "",
+        "left": "135.787px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 7.196,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "372px",
+        "right": "20px",
+        "bottom": "",
+        "left": "151.787px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 7.84,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "367px",
+        "right": "20px",
+        "bottom": "",
+        "left": "182.787px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 9.147,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "50%",
+        "right": "auto",
+        "bottom": "",
+        "left": "50%"
+      },
+      "webcamSize": {
+        "width": 848,
+        "height": 477
+      },
+      "isFullScreen": true,
+      "isHidden": false
+    },
+    {
+      "timestamp": 19.138,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "367px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 21.166,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "392.4px",
+        "right": "20px",
+        "bottom": "",
+        "left": "116.8px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 21.722,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "389px",
+        "right": "20px",
+        "bottom": "",
+        "left": "135.8px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 22.172,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "386px",
+        "right": "20px",
+        "bottom": "",
+        "left": "158.8px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 53.657,
+      "slideNumber": 2,
+      "webcamPosition": {
+        "top": "0px",
+        "right": "20px",
+        "bottom": "",
+        "left": "861.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 101.125,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "0px",
+        "right": "20px",
+        "bottom": "",
+        "left": "861.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 128.288,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "50%",
+        "right": "auto",
+        "bottom": "",
+        "left": "50%"
+      },
+      "webcamSize": {
+        "width": 848,
+        "height": 477
+      },
+      "isFullScreen": true,
+      "isHidden": false
+    },
+    {
+      "timestamp": 132.785,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "0px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 156.737,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "50%",
+        "right": "auto",
+        "bottom": "",
+        "left": "50%"
+      },
+      "webcamSize": {
+        "width": 848,
+        "height": 477
+      },
+      "isFullScreen": true,
+      "isHidden": false
+    },
+    {
+      "timestamp": 166.256,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "0px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 179.382,
+      "slideNumber": 4,
+      "webcamPosition": {
+        "top": "0px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 194.504,
+      "slideNumber": 4,
+      "webcamPosition": {
+        "top": "50%",
+        "right": "auto",
+        "bottom": "",
+        "left": "50%"
+      },
+      "webcamSize": {
+        "width": 848,
+        "height": 477
+      },
+      "isFullScreen": true,
+      "isHidden": false
+    },
+    {
+      "timestamp": 208.219,
+      "slideNumber": 4,
+      "webcamPosition": {
+        "top": "0px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 212.706,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "0px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 214.897,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "92px",
+        "right": "20px",
+        "bottom": "",
+        "left": "149.8px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 215.368,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "45px",
+        "right": "20px",
+        "bottom": "",
+        "left": "123.8px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 215.825,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "53px",
+        "right": "20px",
+        "bottom": "",
+        "left": "142.8px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 226.344,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "143px",
+        "right": "20px",
+        "bottom": "",
+        "left": "531.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 226.858,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "134px",
+        "right": "20px",
+        "bottom": "",
+        "left": "586.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 227.414,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "121px",
+        "right": "20px",
+        "bottom": "",
+        "left": "562.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 231.876,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "93px",
+        "right": "20px",
+        "bottom": "",
+        "left": "377.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 232.347,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "52px",
+        "right": "20px",
+        "bottom": "",
+        "left": "198.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 232.815,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "35px",
+        "right": "20px",
+        "bottom": "",
+        "left": "158.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 233.393,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "45px",
+        "right": "20px",
+        "bottom": "",
+        "left": "152.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 233.907,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "49px",
+        "right": "20px",
+        "bottom": "",
+        "left": "132.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 234.324,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "50px",
+        "right": "20px",
+        "bottom": "",
+        "left": "126.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 261.244,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "50px",
+        "right": "20px",
+        "bottom": "",
+        "left": "126.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 275.441,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "91px",
+        "right": "20px",
+        "bottom": "",
+        "left": "165.787px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 275.957,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "127px",
+        "right": "20px",
+        "bottom": "",
+        "left": "516.787px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 276.563,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "111px",
+        "right": "20px",
+        "bottom": "",
+        "left": "550.787px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 280.505,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "72px",
+        "right": "20px",
+        "bottom": "",
+        "left": "154.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 280.912,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "63px",
+        "right": "20px",
+        "bottom": "",
+        "left": "135.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 281.25,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "39px",
+        "right": "20px",
+        "bottom": "",
+        "left": "127.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 281.871,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "18px",
+        "right": "20px",
+        "bottom": "",
+        "left": "126.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 282.461,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "22px",
+        "right": "20px",
+        "bottom": "",
+        "left": "127.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 300.163,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "22px",
+        "right": "20px",
+        "bottom": "",
+        "left": "127.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 307.306,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "312px",
+        "right": "20px",
+        "bottom": "",
+        "left": "184.788px"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 341.949,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "50%",
+        "right": "auto",
+        "bottom": "",
+        "left": "50%"
+      },
+      "webcamSize": {
+        "width": 848,
+        "height": 477
+      },
+      "isFullScreen": true,
+      "isHidden": false
+    },
+    {
+      "timestamp": 346.459,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "312px",
+        "right": "20px",
+        "bottom": "",
+        "left": "auto"
+      },
+      "webcamSize": {
+        "width": 240,
+        "height": 135
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    }
+  ],
+  "loggingFrequency": 500
+}
