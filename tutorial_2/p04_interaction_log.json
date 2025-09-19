@@ -1,0 +1,134 @@
+{
+  "participantId": "4",
+  "category": "lecture",
+  "subCategory": "how-to-install",
+  "containerSizes": {
+    "presentationContainer": {
+      "width": 1728,
+      "height": 915
+    },
+    "mainContent": {
+      "width": 1428,
+      "height": 855
+    },
+    "slideContainer": {
+      "width": 1428,
+      "height": 855
+    }
+  },
+  "logs": [
+    {
+      "timestamp": 0.001,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "639px",
+        "right": "20px",
+        "bottom": "",
+        "left": "1043.89px"
+      },
+      "webcamSize": {
+        "width": 343,
+        "height": 193
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 34.82,
+      "slideNumber": 2,
+      "webcamPosition": {
+        "top": "629px",
+        "right": "20px",
+        "bottom": "",
+        "left": "1081px"
+      },
+      "webcamSize": {
+        "width": 343,
+        "height": 193
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 79.405,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "100px",
+        "right": "20px",
+        "bottom": "",
+        "left": "1051px"
+      },
+      "webcamSize": {
+        "width": 377,
+        "height": 212
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 106.183,
+      "slideNumber": 4,
+      "webcamPosition": {
+        "top": "100px",
+        "right": "20px",
+        "bottom": "",
+        "left": "1051px"
+      },
+      "webcamSize": {
+        "width": 377,
+        "height": 212
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 132.571,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "559px",
+        "right": "20px",
+        "bottom": "",
+        "left": "1042px"
+      },
+      "webcamSize": {
+        "width": 377,
+        "height": 212
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 164.913,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "559px",
+        "right": "20px",
+        "bottom": "",
+        "left": "1042px"
+      },
+      "webcamSize": {
+        "width": 377,
+        "height": 212
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 198.663,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "560px",
+        "right": "20px",
+        "bottom": "",
+        "left": "1042px"
+      },
+      "webcamSize": {
+        "width": 377,
+        "height": 212
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    }
+  ],
+  "loggingFrequency": 500
+}
