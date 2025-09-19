@@ -1,0 +1,166 @@
+{
+  "participantId": "6",
+  "category": "lecture",
+  "subCategory": "time-management",
+  "containerSizes": {
+    "presentationContainer": {
+      "width": 1536,
+      "height": 773
+    },
+    "mainContent": {
+      "width": 1236,
+      "height": 713
+    },
+    "slideContainer": {
+      "width": 1236,
+      "height": 713
+    }
+  },
+  "logs": [
+    {
+      "timestamp": 0.005,
+      "slideNumber": 1,
+      "webcamPosition": {
+        "top": "65px",
+        "right": "20px",
+        "bottom": "",
+        "left": "987px"
+      },
+      "webcamSize": {
+        "width": 226,
+        "height": 127
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 26.843,
+      "slideNumber": 2,
+      "webcamPosition": {
+        "top": "95px",
+        "right": "20px",
+        "bottom": "",
+        "left": "982px"
+      },
+      "webcamSize": {
+        "width": 226,
+        "height": 127
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 68.106,
+      "slideNumber": 3,
+      "webcamPosition": {
+        "top": "46px",
+        "right": "20px",
+        "bottom": "",
+        "left": "984px"
+      },
+      "webcamSize": {
+        "width": 226,
+        "height": 127
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 109.73,
+      "slideNumber": 4,
+      "webcamPosition": {
+        "top": "46px",
+        "right": "20px",
+        "bottom": "",
+        "left": "984px"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 147.875,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "46px",
+        "right": "20px",
+        "bottom": "",
+        "left": "984px"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 180.273,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "46px",
+        "right": "20px",
+        "bottom": "",
+        "left": "984px"
+      },
+      "webcamSize": {
+        "width": 100,
+        "height": 100
+      },
+      "isFullScreen": false,
+      "isHidden": true
+    },
+    {
+      "timestamp": 200.993,
+      "slideNumber": 5,
+      "webcamPosition": {
+        "top": "22px",
+        "right": "20px",
+        "bottom": "",
+        "left": "983px"
+      },
+      "webcamSize": {
+        "width": 226,
+        "height": 127
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 228.401,
+      "slideNumber": 6,
+      "webcamPosition": {
+        "top": "22px",
+        "right": "20px",
+        "bottom": "",
+        "left": "983px"
+      },
+      "webcamSize": {
+        "width": 226,
+        "height": 127
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    },
+    {
+      "timestamp": 257.544,
+      "slideNumber": 7,
+      "webcamPosition": {
+        "top": "22px",
+        "right": "20px",
+        "bottom": "",
+        "left": "983px"
+      },
+      "webcamSize": {
+        "width": 226,
+        "height": 127
+      },
+      "isFullScreen": false,
+      "isHidden": false
+    }
+  ],
+  "loggingFrequency": 500
+}
