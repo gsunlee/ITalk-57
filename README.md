@@ -1,8 +1,8 @@
-# ITalk-57 Dataset
+# ITalk-60 Dataset
 
-**ITalk-57** is a multimodal dataset of 57 recorded online presentations, contributed as part of the paper:
+**ITalk-60** is a multimodal dataset of 60 recorded presentation sessions, contributed as part of the paper:
 
-**"In-Situ Presenter: Augmenting Online Presentations through Interactive Presenter-Content Alignment"**  
+**"In-Situ Presenter: Bringing Presenters into Slides via Context-Aware Composition"**  
 **Paper Link**: _TBD_
 
 This dataset captures presenter behavior in a presentation interface that allows full dynamic control over webcam placement and layout during slide delivery. It supports research on multimodal alignment, expressive video-mediated communication, and adaptive presentation tools.
@@ -16,26 +16,44 @@ We release data from 16 consented participants (out of 20), each of whom present
 ### Folder Structure
 
 ```
-ITalk-57/
-├── personal/
-│   ├── personal_1/
-│   │   ├── slides.pdf
-│   │   ├── script.txt
+ITalk-60/
+├── README.md
+│
+├── presentation_material/              # Canonical slides and scripts used across all sessions
+│   ├── personal/
+│   │   ├── hobby.pptx                  # 7-slide deck on personal hobbies
+│   │   ├── hobby.txt                   # Presentation script / teleprompter notes
+│   │   ├── hometown.pptx               # 7-slide deck on hometown narratives
+│   │   └── hometown.txt
+│   ├── tutorial/
+│   │   ├── how-to-install.pptx         # 7-slide software installation tutorial
+│   │   ├── how-to-install.txt
+│   │   ├── time-management.pptx        # 7-slide productivity tutorial
+│   │   └── time-management.txt
+│   └── professional/
+│       ├── product.pptx                # 7-slide tech product pitch
+│       ├── product.txt
+│       ├── research.pptx               # 7-slide academic research presentation
+│       └── research.txt
+│
+├── personal/                           # Personal narrative recordings & logs
+│   ├── personal_1/                     # (hometown talk: p01–p04, p09–p12, p17–p18)
+│   │   ├── p01_interaction_log.json
 │   │   ├── p01_presentation.mp4
-│   │   ├── p01_webcam_only.mp4
-│   │   └── p01_interaction_log.json
-│   ├── personal_2/
-│   └── ...
-├── tutorial/
-│   ├── tutorial_1/
-│   └── ...
-├── professional/
-│   ├── professional_1/
-│   └── ...
+│   │   ├── p01_webcam.webm
+│   │   └── ...
+│   └── personal_2/                     # (hobby talk: p05–p08, p13–p16, p19–p20)
+│
+├── tutorial/                           # Instructional tutorial recordings & logs
+│   ├── tutorial_1/                     # (how-to-install talk)
+│   └── tutorial_2/                     # (time-management talk)
+│
+└── professional/                       # Professional presentation recordings & logs
+    ├── professional_1/                 # (research talk)
+    └── professional_2/                 # (product pitch talk)
 ```
 
-Each top-level folder (`personal`, `tutorial`, `professional`) contains all participant recordings for that genre.
-
+Each top-level folder (`personal`, `tutorial`, `professional`) contains all participant recordings for that presentation domain.
 Each subfolder (e.g., `personal_1`) corresponds to a single presentation instance and contains:
 
 - `slides.pdf`: Slide deck (7 slides)
@@ -46,14 +64,12 @@ Each subfolder (e.g., `personal_1`) corresponds to a single presentation instanc
 
 ---
 
-## ⚠️ Missing or Partial Data
+## ⚠️ Notes on Session Structure & Consent
 
-Please note the following exceptions:
-
-- **Participants p05, p06, p09**: Only provided consent to release *non-identifiable data*. Therefore, only the `interaction_log.json` files are available for these presentations. No presentation video, or webcam feed is included.
-- **Participant p19**: Webcam data was lost due to file corruption. Only the `interaction_log.json` are available.
-
-These cases are still valuable for layout behavior and interaction pattern analysis, as the JSON logs fully capture timestamped positioning and mode-switching events.
+* **60 Logical Sessions / 61 JSON Logs**: Participant 15's session on `professional_2` was restarted due to an application refresh, producing `p15_interaction_log_pt1.json` and `p15_interaction_log_pt2.json`. Both segments are retained.
+* **Non-Video Participants (`p05`, `p06`, `p09`)**: 3 participants (9 presentation sessions) declined public release of identifiable facial video. Their sessions preserve complete, de-identified interaction logs (`*_interaction_log.json`).
+* **Webcam Stream (`p19`)**: The isolated webcam stream for `personal_2/p19` was corrupted during stream encoding, but the composite presentation video and interaction log are preserved.
+* **Composite Streams (`p17`, `p16`, `p20`)**: Composite screen recordings were omitted in 5 sessions due to recording timeouts; their isolated webcam feeds and interaction logs are preserved.
 
 ---
 
